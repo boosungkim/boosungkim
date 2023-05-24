@@ -6,8 +6,8 @@ I am now mainly focused on Machine Learning, but I also dabble in Linux and blog
 
 ⚡ Check out my website: https://boosungkim.com ⚡ 
 
-
 - 🔭 I’m currently working on ML paper implementations.
+- 🤔 Check out my archived projects: https://github.com/boosungkim-archives
 - 💬 Feel free to reach out to me about anything!
   - 📫 boosung@boosungkim.com
   - 📫 @bytesofBoosung
