@@ -29,4 +29,5 @@ Databases: ![MySQL](https://img.shields.io/badge/mysql-%2300f.svg?style=for-the-
 - 💬 Feel free to reach out to me about anything!
   - 📫 boosung@boosungkim.com
   - 📫 (Twitter) [@bytesofBoosung](https://twitter.com/bytesofboosung)
+  - 📫 (LinkedIn) [@boosungk](https://www.linkedin.com/in/boosungk/)
 
