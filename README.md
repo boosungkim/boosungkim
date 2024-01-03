@@ -1,13 +1,11 @@
-# Boosung Kim 👋
+# Hi, I'm Boosung 👋
 
-[![Website](https://img.shields.io/badge/Website-boosungkim.com-informational?style=flat-square&color=00ADB5&logo=about.me&logoColor=white)](https://boosungkim.com)
-[![LinkedIn](https://img.shields.io/badge/LinkedIn-boosungk-informational?style=flat-square&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/boosungk/)
+[![Website Badge](https://img.shields.io/badge/-boosungkim.com-47CCCC?style=flat&logo=Google-Chrome&logoColor=white&link=https://boosungkim.com)](https://boosungkim.com)
+[![Linkedin Badge](https://img.shields.io/badge/-boosungk-blue?style=flat&logo=Linkedin&logoColor=white&link=https://www.linkedin.com/in/boosungk/)](https://www.linkedin.com/in/boosungk/)
+[![Twitter Badge](https://img.shields.io/badge/-@bytesofboosung-black?style=flat&labelColor=black&logo=X&logoColor=white&link=https://twitter.com/bytesofboosung)](https://twitter.com/bytesofboosung)
+[![Gmail Badge](https://img.shields.io/badge/-boosung-c14438?style=flat&logo=Gmail&logoColor=white&link=mailto:boosung@boosungkim.com)](mailto:boosung@boosungkim.com)
 
-Hi there! My name is Boosung, a Junior pursuing double B.S in Mathematics and Computer Science at Dickinson College.
-
-My general interest revolves around creating full stack applications involving Machine Learning and Deep Learning. I also have an interest in  my custom Linux setup and general software engineering. Long term career wise, I hope to get into MLOps
-
-I'm currently working as a SWE intern at a startup while working on some ML side projects.
+Hi, my name is Boosung, an aspiring Backend/ML Engineer! I'm currently a Junior majoring in Math and Computer Science at Dickinson College. I'm currently developing a service for 84 Lumber, and I have previous experience in startups and the Korean Army Intelligence.
 
 ⚡ Check out my website: https://boosungkim.com ⚡ 
 
