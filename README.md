@@ -5,7 +5,7 @@
 [![Twitter Badge](https://img.shields.io/badge/-@bytesofboosung-black?style=flat&labelColor=black&logo=X&logoColor=white&link=https://twitter.com/bytesofboosung)](https://twitter.com/bytesofboosung)
 [![Gmail Badge](https://img.shields.io/badge/-boosung-c14438?style=flat&logo=Gmail&logoColor=white&link=mailto:boosung@boosungkim.com)](mailto:boosung@boosungkim.com)
 
-Hi, my name is Boosung, an aspiring Backend/ML Engineer! I'm currently a Junior majoring in Math and Computer Science at Dickinson College. I'm currently developing a service for 84 Lumber, and I have previous experience in startups and the Korean Army Intelligence.
+Hi, my name is Boosung, a Backend/ML Engineer! I'm currently a Junior majoring in Math and Computer Science at Dickinson College. I'm currently developing a service for 84 Lumber, and I have previous experience in startups and the Korean Army Intelligence.
 
 ⚡ Check out my website: https://boosungkim.com ⚡ 
 
