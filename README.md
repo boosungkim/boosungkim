@@ -1,24 +1,24 @@
 # Hi, I'm Boosung 👋
 
-<a href="https://boosungkim.com">
+<a href="https://boosungkim.com" style="text-decoration: none;">
   <img src="./Assets/www.png" width="40" alt="" style="border-radius: 10%;">
 </a>
-<a href="https://twitter.com/bytesofboosung">
+<a href="https://twitter.com/bytesofboosung" style="text-decoration: none;">
   <img src="./Assets/X.svg" width="40" alt="">
 </a> 
-<a href="https://www.linkedin.com/in/boosungk/">
+<a href="https://www.linkedin.com/in/boosungk/" style="text-decoration: none;">
   <img src="./Assets/LinkedIn.svg" width="40" alt="">
 </a> 
-<a href="mailto:boosung@boosungkim.com">
+<a href="mailto:boosung@boosungkim.com" style="text-decoration: none;">
   <img src="./Assets/Email.svg" width="40" alt="">
 </a> 
-<a href="">
+<a href="" style="text-decoration: none;">
   <img src="./Assets/StackOverflow.svg" width="40" alt="">
 </a> 
-<a href="">
+<a href="" style="text-decoration: none;">
   <img src="./Assets/Substack.svg" width="40" alt="">
 </a> 
-<a href="https://www.youtube.com/@Converge2Diverge">
+<a href="https://www.youtube.com/@Converge2Diverge" style="text-decoration: none;">
   <img src="./Assets/yt.png" width="40" alt="" style="border-radius: 10%;">
 </a>
 
