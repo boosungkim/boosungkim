@@ -1,24 +1,24 @@
 # Hi, I'm Boosung 👋
 
-<a href="https://boosungkim.com" style="text-decoration: none;">
+<a href="https://boosungkim.com" style="text-decoration: none !important;">
   <img src="./Assets/www.png" width="40" alt="" style="border-radius: 10%;">
 </a>
-<a href="https://twitter.com/bytesofboosung" style="text-decoration: none;">
+<a href="https://twitter.com/bytesofboosung" style="text-decoration: none !important;">
   <img src="./Assets/X.svg" width="40" alt="">
 </a> 
-<a href="https://www.linkedin.com/in/boosungk/" style="text-decoration: none;">
+<a href="https://www.linkedin.com/in/boosungk/" style="text-decoration: none !important;">
   <img src="./Assets/LinkedIn.svg" width="40" alt="">
 </a> 
-<a href="mailto:boosung@boosungkim.com" style="text-decoration: none;">
+<a href="mailto:boosung@boosungkim.com" style="text-decoration: none !important;">
   <img src="./Assets/Email.svg" width="40" alt="">
 </a> 
-<a href="" style="text-decoration: none;">
+<a href="" style="text-decoration: none !important;">
   <img src="./Assets/StackOverflow.svg" width="40" alt="">
 </a> 
-<a href="" style="text-decoration: none;">
+<a href="" style="text-decoration: none !important;">
   <img src="./Assets/Substack.svg" width="40" alt="">
 </a> 
-<a href="https://www.youtube.com/@Converge2Diverge" style="text-decoration: none;">
+<a href="https://www.youtube.com/@Converge2Diverge" style="text-decoration: none !important;">
   <img src="./Assets/yt.png" width="40" alt="" style="border-radius: 10%;">
 </a>
 
@@ -60,7 +60,6 @@ Story: -- in progress --
 
 Custom chess engine made for Korean Army soldiers without internet access. Not too technically complex, but I made this through pure grit and determination in the army - read the story!
 
----
 
 <a href="https://github.com/boosungkim?tab=repositories">And many more! </a>
 
