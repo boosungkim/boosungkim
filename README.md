@@ -1,23 +1,23 @@
 # Hi, I'm Boosung 👋
 
 <a href="https://boosungkim.com">
-<img src="./Assets/www.png" width="40" style="border-radius: 10%;">
+<img src="./Assets/www.png" width="40" style="border-radius: 10%;"> 
 </a>
 <a href="https://twitter.com/bytesofboosung">
 <img src="./Assets/X.svg" width="40">
-</a>
+</a> 
 <a href="https://www.linkedin.com/in/boosungk/">
 <img src="./Assets/LinkedIn.svg" width="40">
-</a>
+</a> 
 <a href="mailto:boosung@boosungkim.com">
 <img src="./Assets/Email.svg" width="40">
-</a>
+</a> 
 <a href="">
 <img src="./Assets/StackOverflow.svg" width="40">
-</a>
+</a> 
 <a href="">
 <img src="./Assets/Substack.svg" width="40">
-</a>
+</a> 
 <a href="https://www.youtube.com/@Converge2Diverge">
 <img src="./Assets/yt.png" width="40" style="border-radius: 10%;">
 </a>
