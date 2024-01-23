@@ -3,29 +3,11 @@
 
 [<img src="./Assets/www.png" width="40" alt="" style="border-radius: 10%;">](https://boosungkim.com)
 [<img src="./Assets/X.svg" width="40" alt="" style="border-radius: 10%;">](https://twitter.com/bytesofboosung)
-
-<a href="https://boosungkim.com" style="text-decoration: none !important;">
-  <img src="./Assets/www.png" width="40" alt="" style="border-radius: 10%;">
-</a>
-<a href="https://twitter.com/bytesofboosung" style="text-decoration: none !important;">
-  <img src="./Assets/X.svg" width="40" alt="">
-</a> 
-<a href="https://www.linkedin.com/in/boosungk/" style="text-decoration: none !important;">
-  <img src="./Assets/LinkedIn.svg" width="40" alt="">
-</a> 
-<a href="mailto:boosung@boosungkim.com" style="text-decoration: none !important;">
-  <img src="./Assets/Email.svg" width="40" alt="">
-</a> 
-<a href="" style="text-decoration: none !important;">
-  <img src="./Assets/StackOverflow.svg" width="40" alt="">
-</a> 
-<a href="" style="text-decoration: none !important;">
-  <img src="./Assets/Substack.svg" width="40" alt="">
-</a> 
-<a href="https://www.youtube.com/@Converge2Diverge" style="text-decoration: none !important;">
-  <img src="./Assets/yt.png" width="40" alt="" style="border-radius: 10%;">
-</a>
-
+[<img src="./Assets/LinkedIn.svg" width="40" alt="">](https://www.linkedin.com/in/boosungk/)
+[<img src="./Assets/Email.svg" width="40" alt="" style="border-radius: 10%;">](mailto:boosung@boosungkim.com)
+[<img src="./Assets/StackOverflow.svg" width="40" alt="">]()
+[<img src="./Assets/Substack.svg" width="40" alt="">]()
+[<img src="./Assets/yt.png" width="40" alt="" style="border-radius: 10%;">](https://www.youtube.com/@Converge2Diverge)
 
 
 I am a Software Engineer specializing in building Backend and ML systems with over 2 years of experience. I am currently volunteering as an AI Solutions Architect Intern at 84 Lumber while attending college (Junior).
