@@ -1,8 +1,12 @@
 # Hi, I'm Boosung 👋
 
+
+[<img src="./Assets/www.png" width="40" alt="" style="border-radius: 10%;">](https://boosungkim.com)
+[<img src="./Assets/X.svg" width="40" alt="" style="border-radius: 10%;">](https://twitter.com/bytesofboosung)
+
 <a href="https://boosungkim.com" style="text-decoration: none !important;">
   <img src="./Assets/www.png" width="40" alt="" style="border-radius: 10%;">
-</a>&nbsp;&nbsp;&nbsp;
+</a>
 <a href="https://twitter.com/bytesofboosung" style="text-decoration: none !important;">
   <img src="./Assets/X.svg" width="40" alt="">
 </a> 
