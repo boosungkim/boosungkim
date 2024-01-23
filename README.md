@@ -1,7 +1,7 @@
 # Hi, I'm Boosung 👋
 
 <a href="https://boosungkim.com">
-<img src="./Assets/www.png" width="40" style="border-radius: 10%;"> 
+<img src="./Assets/www.png" width="40" style="border-radius: 10%;">
 </a>
 <a href="https://twitter.com/bytesofboosung">
 <img src="./Assets/X.svg" width="40">
