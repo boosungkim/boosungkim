@@ -1,26 +1,27 @@
 # Hi, I'm Boosung 👋
 
-<a href="https://boosungkim.com">
-<img src="./Assets/www.png" width="40" style="border-radius: 10%;">
+<a href="https://boosungkim.com" style="text-decoration: none;">
+  <img src="./Assets/www.png" width="40" style="border-radius: 10%;">
 </a>
-<a href="https://twitter.com/bytesofboosung">
-<img src="./Assets/X.svg" width="40">
+<a href="https://twitter.com/bytesofboosung" style="text-decoration: none;">
+  <img src="./Assets/X.svg" width="40">
 </a> 
-<a href="https://www.linkedin.com/in/boosungk/">
-<img src="./Assets/LinkedIn.svg" width="40">
+<a href="https://www.linkedin.com/in/boosungk/" style="text-decoration: none;">
+  <img src="./Assets/LinkedIn.svg" width="40">
 </a> 
-<a href="mailto:boosung@boosungkim.com">
-<img src="./Assets/Email.svg" width="40">
+<a href="mailto:boosung@boosungkim.com" style="text-decoration: none;">
+  <img src="./Assets/Email.svg" width="40">
 </a> 
-<a href="">
-<img src="./Assets/StackOverflow.svg" width="40">
+<a href="" style="text-decoration: none;">
+  <img src="./Assets/StackOverflow.svg" width="40">
 </a> 
-<a href="">
-<img src="./Assets/Substack.svg" width="40">
+<a href="" style="text-decoration: none;">
+  <img src="./Assets/Substack.svg" width="40">
 </a> 
-<a href="https://www.youtube.com/@Converge2Diverge">
-<img src="./Assets/yt.png" width="40" style="border-radius: 10%;">
+<a href="https://www.youtube.com/@Converge2Diverge" style="text-decoration: none;">
+  <img src="./Assets/yt.png" width="40" style="border-radius: 10%;">
 </a>
+
 
 I am a Software Engineer specializing in building Backend and ML systems with over 2 years of experience. I am currently volunteering as an AI Solutions Architect Intern at 84 Lumber while attending college (Junior).
 
