@@ -5,8 +5,8 @@
 [<img src="./Assets/X.svg" width="40" alt="">](https://twitter.com/bytesofboosung)
 [<img src="./Assets/LinkedIn.svg" width="40" alt="">](https://www.linkedin.com/in/boosungk/)
 [<img src="./Assets/Email.svg" width="40" alt="">](mailto:boosung@boosungkim.com)
-[<img src="./Assets/StackOverflow.svg" width="40" alt="">]()
-[<img src="./Assets/Substack.svg" width="40" alt="">]()
+[<img src="./Assets/StackOverflow.svg" width="40" alt="">](https://stackoverflow.com/users/18632840/boosungkim)
+[<img src="./Assets/Substack.svg" width="40" alt="">](https://boosung.substack.com/)
 [<img src="./Assets/yt.png" width="40" alt="">](https://www.youtube.com/@Converge2Diverge)
 
 
