@@ -26,8 +26,8 @@ Away from my keyboard, I'm all about the outdoors. You'll often find me taking w
 -- In Progress --
 
 ### 🐸 Frody (PennApps 2023 Winner) 🐸
-GitHub: https://github.com/PennApps-XXIV-Team  
-DevPost: https://devpost.com/software/temptemp
+GitHub: [github.com/PennApps-XXIV-Team](https://github.com/PennApps-XXIV-Team)  
+DevPost: [devpost.com/software/temptemp](https://devpost.com/software/temptemp)
 
 Frody is a real-time credit card fraud detection system, a microservice on the Google Cloud Platform that uses machine learning to flag and inform users on real-time transactional data.
 
@@ -35,14 +35,14 @@ Winner of "Best Distributed Systems" and "Most Technically Complex" awards at Pe
 
 
 ### 🤖 AI Paper Implementations 🤖
-GitHub: https://github.com/boosungkim/Paper-Implementations  
+GitHub: [github.com/boosungkim/Paper-Implementations](https://github.com/boosungkim/Paper-Implementations)  
 Site: -- in progress --
 
 My Deep Learning paper implementations from scratch in PyTorch. Finished the Computer Vision implementations, and am currently working my way towards LLMs.
 
 ### ♟️ Custom Chess Engine ♟️
-GitHub: https://github.com/boosungkim/custom-chess-engine  
-Story: -- in progress --
+GitHub: [github.com/boosungkim/custom-chess-engine](https://github.com/boosungkim/custom-chess-engine)  
+Story: [boosung.substack.com/p/the-time-i-coded-chess-with-pen-and](https://boosung.substack.com/p/the-time-i-coded-chess-with-pen-and)
 
 Custom chess engine made for Korean Army soldiers without internet access. Not too technically complex, but I made this through pure grit and determination in the army - read the story!
 
