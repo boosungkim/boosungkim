@@ -58,7 +58,7 @@ Custom chess engine made for Korean Army soldiers without internet access. Not t
 
 💬 Feel free to reach out to me about anything!
 
-[![Boosung's GitHub stats](https://github-readme-stats-three-psi-25.vercel.app/api?username=boosungkim)](https://github.com/boosungkim/github-readme-stats)
+<!-- [![Boosung's GitHub stats](https://github-readme-stats-three-psi-25.vercel.app/api?username=boosungkim)](https://github.com/boosungkim/github-readme-stats) -->
 
 <!-- Icons: https://github.com/Ileriayo/markdown-badges/tree/4e6e5d6e2c0e497b542bc9856fb927b9bfdaf175 -->
 <!-- GitHub ReadMe Stats: https://github.com/boosungkim/github-readme-stats -->
