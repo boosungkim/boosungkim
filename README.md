@@ -22,9 +22,6 @@ Away from my keyboard, I'm all about the outdoors. You'll often find me taking w
 
 ## Notable Projects
 
-### 🎙️ Verbalize 🎙️
--- In Progress --
-
 ### 🐸 Frody (PennApps 2023 Winner) 🐸
 GitHub: [github.com/PennApps-XXIV-Team](https://github.com/PennApps-XXIV-Team)  
 DevPost: [devpost.com/software/temptemp](https://devpost.com/software/temptemp)
