@@ -5,23 +5,21 @@
 [<img src="./Assets/X.svg" width="40" alt="">](https://twitter.com/bytesofboosung)
 [<img src="./Assets/LinkedIn.svg" width="40" alt="">](https://www.linkedin.com/in/boosungk/)
 [<img src="./Assets/Email.svg" width="40" alt="">](mailto:boosung@boosungkim.com)
-[<img src="./Assets/StackOverflow.svg" width="40" alt="">](https://stackoverflow.com/users/18632840/boosungkim)
+<!-- [<img src="./Assets/StackOverflow.svg" width="40" alt="">](https://stackoverflow.com/users/18632840/boosungkim) -->
 [<img src="./Assets/Substack.svg" width="40" alt="">](https://boosung.substack.com/)
-[<img src="./Assets/yt.png" width="40" alt="">](https://www.youtube.com/@Converge2Diverge)
 
 
-I am a Software Engineer specializing in building Backend and ML systems with over 2 years of experience. I am currently volunteering as an AI Solutions Architect Intern at 84 Lumber while attending college (Junior).
+I am a Software Engineer specializing in building backend infrastructures and distributed systems. I am currently a senior majoring in Computer Science and Math at Dickinson College.
 
-My interest in software development began in college when I decided to create a better college cafeteria interface with Python. Little did I know, balancing API calls and pita 🌮 options would be easier than navigating the complex tastes of college students. Who knew that an extra mayo option could crash a server?
+My interest in software development began in college when I decided to create a better college cafeteria interface with Python. Who knew balancing API calls and pita 🌮 options would be easier than navigating the complex tastes of college students.
 
-Fast forward to today, I've had the privilege of working at 84 Lumber, university labs, the South Korean Army Intelligence, and a Korean start-up. My main focus these days are building accessible digital services and completing my college diploma (expected May 2025).
+After winning the Best Distributed Systems award in the [2023 PennApps hackathon](https://devpost.com/software/temptemp) and working on file conversion systems during my internship at [Box](https://www.box.com/), I developed a passion for building scalable and reliable systems that can support complex features, including AI.
 
 Away from my keyboard, I'm all about the outdoors. You'll often find me taking walks 🚶, enjoying hot springs ♨️, or star-gazing in open fields 🌠.
 
 ⚡ Check out my website for more: https://boosungkim.com ⚡ 
 
 ## Notable Projects
-
 ### 🐸 Frody (PennApps 2023 Winner) 🐸
 GitHub: [github.com/PennApps-XXIV-Team](https://github.com/PennApps-XXIV-Team)  
 DevPost: [devpost.com/software/temptemp](https://devpost.com/software/temptemp)
