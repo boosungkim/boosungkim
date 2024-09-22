@@ -8,10 +8,13 @@
 [<img src="./Assets/Substack.svg" width="40" alt="">](https://boosung.substack.com/)
 <!-- [<img src="./Assets/StackOverflow.svg" width="40" alt="">](https://stackoverflow.com/users/18632840/boosungkim) -->
 
-I am a Software Engineer specializing in building backend infrastructures and distributed systems. I am currently a senior majoring in Computer Science and Math at Dickinson College.
+I am a Software Engineer specializing in building backend infrastructures and distributed systems.
 
-⚡ Read more about me on my website! https://boosungkim.com ⚡ 
-
+💻 Previous SWE Intern @ Box  
+🎓 Senior majoring in Computer Science and Math @ Dickinson College  
+🌱  I want to help revolutionize the world by developing scalable and reliable systems that can support complex features, such as AI  
+🌠 I love star gazing  
+⚡ Read more about me on my website: https://boosungkim.com  
 💬 Feel free to reach out to me about anything!
 
 
@@ -22,21 +25,17 @@ Site: [https://boosungkim.com/works/frody](https://boosungkim.com/works/frody)
 
 Frody is a real-time credit card fraud detection system, a microservice on the Google Cloud Platform that uses machine learning to flag and inform users on real-time transactional data.
 
-Winner of "Best Distributed Systems" and "Most Technically Complex" awards at PennApps 2023.
-
-
 ### 🤖 AI Paper Implementations 🤖
 GitHub: [github.com/boosungkim/Paper-Implementations](https://github.com/boosungkim/Paper-Implementations)  
 Site: [https://boosungkim.com/works/deeplearnlab](https://boosungkim.com/works/deeplearnlab)
 
-My Deep Learning paper implementations from scratch in PyTorch. Finished the Computer Vision implementations, and am currently working my way towards LLMs.
+My Deep Learning paper implementations from scratch in PyTorch.
 
 ### ♟️ Custom Chess Engine ♟️
 GitHub: [github.com/boosungkim/custom-chess-engine](https://github.com/boosungkim/custom-chess-engine)  
 Site: [https://boosungkim.com/works/chess](https://boosungkim.com/works/chess)
 
-Custom chess engine made for Korean Army soldiers without internet access. Not too technically complex, but I made this through pure grit and determination in the army - read the story!
-
+Custom chess engine made for Korean Army soldiers without internet access.
 
 <a href="https://github.com/boosungkim?tab=repositories">And many more! </a>
 
