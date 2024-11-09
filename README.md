@@ -13,7 +13,7 @@ I am a Software Engineer specializing in building backend infrastructures and di
 💻 Previous SWE Intern @ Box  
 🎓 Senior majoring in Computer Science and Math @ Dickinson College  
 ❤️‍🔥 Passion for developing scalable and reliable systems that can support complex features, such as AI  
-🌠 I love star gazing and water related sports 🌊  
+🌊 I love water related sports and star gazing 🌠  
 ⚡ Read more about me on my website: https://boosungkim.com  
 💬 Feel free to reach out to me about anything!
 
